@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Nnaekwe Onyinyechukwu Chizoba
+- 👋 Hi, I am @Nnaekwe Onyinyechukwu Chizoba
 - 👀 I’m interested in Data Analysis, Artificial Intelligence , Machine Learning, Health, Safety
-- 🌱 I’m currently learning Google Data Analytics Professional Certificate
+- 🌱 I have complted my Google Data Analytics Professional Certificate Course
+- I am currently undergoing a Data Science Diploma Program
 - 💞️ I’m looking to collaborate on application of emerging technologies to solve healthcare and safety related problems
 - 📫 How to reach me nnaekweonyinye@gmail.com
 
