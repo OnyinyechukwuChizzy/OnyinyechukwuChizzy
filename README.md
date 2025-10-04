@@ -4,6 +4,7 @@
 - I am currently undergoing a Data Science Diploma Program
 - 💞️ I’m looking to collaborate on application of emerging technologies to solve healthcare and safety related problems
 - 📫 How to reach me nnaekweonyinye@gmail.com
+- www.linkedin.com/in/onyinyechukwu-nnaekwe
 
 <!---
 OnyinyechukwuChizzy/OnyinyechukwuChizzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
